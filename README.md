@@ -13,6 +13,8 @@ An enterprise Next.js template application showcasing - Testing strategies, Glob
 
 ---
 
+---
+
   <p>
     <h4>
       Expert teams of digital product strategists, developers, and designers.
